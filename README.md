@@ -1,4 +1,4 @@
-<img align="left" width="5%" src="https://github.com/Gabbszzz/Img/blob/main/wc.gif"/>
+<img align="left" width="10%" src="https://github.com/Gabbszzz/Img/blob/main/wc.gif"/>
 <img align="left" width="100%" alt="about" src="https://github.com/Gabbszzz/Img/blob/main/imagemTop.gif"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -199,6 +199,13 @@
     <a href="https://github.com/Gabbszzz/BruceWayne" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabbszzz&repo=BruceWayne&theme=tokyonight&hide_border=true">
     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Gabbszzz/Pseudo-Codigo" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabbszzz&repo=Pseudo-Codigo&theme=tokyonight&hide_border=true">
+  </a>
     </td>
   </tr>
   <tr>
