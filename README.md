@@ -204,6 +204,14 @@
   
   <tr>
     <td>
+    <a href="https://github.com/Gabbszzz/Java" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabbszzz&repo=Java&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
     <a href="https://github.com/Gabbszzz/Liguagem-C/tree/main" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabbszzz&repo=Liguagem-C&theme=tokyonight&hide_border=true">
   </a>
