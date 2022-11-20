@@ -16,7 +16,7 @@
   </tr>
 </table> -->
 <ul align="left">
-    <li>🤩️ Amante de Tecnologia, Jogos, filmes, Anime e músicas 🤩️</li><br>
+    <li>🤩️ Amante de Tecnologia, Jogos, filmes, Animes e músicas 🤩️</li><br>
     <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li><br>
     <li>💻 Estudo no <a href="https://www.senai-ce.org.br/cursos/4788/tecnicos/tecnico-em-desenvolvimento-de-sistemas" target="_blank">SENAI</a>. Atualmente estou aprendendo <b>JavaScript</b> e <b>CSS</b> 💻</li><br>
     <li>🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End, Web e Mobile🔮</li><br>
@@ -86,10 +86,10 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="bootstrap icon"/><br>
       <sub>
         <b>
-          <pre>Figma</pre>
+          <pre>Bootstrap</pre>
         </b>
       </sub>
     </td>
