@@ -1,8 +1,9 @@
-<img align="left" width="100%" alt="about" src="https://github.com/Gabbszzz/Gabbszzz/blob/main/imagemTop.gif"/>
+<img align="left" width="5%" src="https://github.com/Gabbszzz/Img/blob/main/wc.gif"/>
+<img align="left" width="100%" alt="about" src="https://github.com/Gabbszzz/Img/blob/main/imagemTop.gif"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
-<img align="right" src="https://github.com/Gabbszzz/Gabbszzz/blob/main/sobre.gif" width="313px" height="300px" alt="about me">
+<img align="right" src="https://github.com/Gabbszzz/Img/blob/main/sobre.gif" width="313px" height="300px" alt="about me">
 <!-- <table align="center">
   <tr>
     <td>
@@ -24,7 +25,7 @@
 <br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
-<img align="left" height="295px" width="300px" alt="quote" src="https://github.com/Gabbszzz/Gabbszzz/blob/main/tec.gif"/>
+<img align="left" height="295px" width="300px" alt="quote" src="https://github.com/Gabbszzz/Img/blob/main/tec.gif"/>
 <table align="right" height="300px">
   <tr>
     <td align="center">
@@ -166,7 +167,8 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
-<img align="left" width="220px" height="180px" src="https://github.com/Gabbszzz/Gabbszzz/blob/main/pato.gif" alt="anime coding">
+<img align="left" width="220px" height="180px" src="https://github.com/Gabbszzz/Img/blob/main/pato.gif" alt="anime coding">
+<img align="right" src="https://github.com/Gabbszzz/Img/blob/main/gato.gif" width="220px" height="180px" alt="contact">
 <br><br>
 <p align="center">
   
@@ -177,10 +179,37 @@
   <a href="https://www.instagram.com/gabbs_zzz/?next=%2F" alt="Instagram" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
   </a>
-  
-  <img align="right" src="https://github.com/Gabbszzz/Gabbszzz/blob/main/gato.gif" width="220px" height="180px" alt="contact">
+  </p>
+ 
 <br><br><br>
 
+<h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
+<img align="right" src="https://github.com/Gabbszzz/Img/blob/main/fofinho.gif" height="495px" width="365px" alt="projects image">
+<table height="495px" width="365px">
+  <tr>
+    <td>
+    <a href="https://github.com/Gabbszzz/Gabbszzz" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabbszzz&repo=Gabbszzz&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+    <a href="https://github.com/Gabbszzz/BruceWayne" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabbszzz&repo=BruceWayne&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Gabbszzz/Ola-mundo" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabbszzz&repo=Ola-mundo&theme=tokyonight&hide_border=true">
+  </a>
+    </td>
+  </tr>
+  </table>
+<br>
 
 <h2 align="center">
 <details open>
