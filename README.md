@@ -169,9 +169,6 @@
 <img align="left" width="220px" height="180px" src="https://github.com/Gabbszzz/Gabbszzz/blob/main/pato.gif" alt="anime coding">
 <br><br>
 <p align="center">
-  </a>
-  <a href = "mailto:gabrielly.gois.a@gmail.com" alt="e-mail"><img src="https://skillicons.dev/icons?i=go" target="_blank">
-  </a> 
   
   <a href="https://www.linkedin.com/in/gabrielly-g-almeida/" alt="Linkedin" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin">
