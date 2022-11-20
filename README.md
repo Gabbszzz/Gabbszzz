@@ -170,15 +170,15 @@
 <br><br>
 <p align="center">
   </a>
-  <a href = "mailto:gabrielly.gois.a@gmail.com" alt="e-mail"><img src="./images/button/e-mail.svg" target="_blank">
+  <a href = "mailto:gabrielly.gois.a@gmail.com" alt="e-mail"><img src="https://skillicons.dev/icons?i=go" target="_blank">
   </a> 
   
   <a href="https://www.linkedin.com/in/gabrielly-g-almeida/" alt="Linkedin" target="_blank">
-    <img src="./images/button/linkedin.svg" alt="linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin">
   </a>
  
   <a href="https://www.instagram.com/gabbs_zzz/?next=%2F" alt="Instagram" target="_blank">
-    <img src="./images/button/instagram.svg" alt="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
   </a>
   
 <br><br><br>
@@ -188,7 +188,7 @@
 <details open>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅｓ</i> &ensp;📈</summary>
 <br>
-<img align="center" src="(https://activity-graph.herokuapp.com/graph?username=Gabbszzz&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Gabbszzz&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true">
 <br><br>
 <img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbszzz&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
