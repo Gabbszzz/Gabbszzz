@@ -178,6 +178,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
   </a>
   
+  <img align="right" src="https://github.com/Gabbszzz/Gabbszzz/blob/main/gato.gif" width="220px" height="180px" alt="contact">
 <br><br><br>
 
 
