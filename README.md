@@ -18,9 +18,9 @@
 </table> -->
 <ul align="left">
     <li>🤩️ Amante de Tecnologia, Jogos, filmes, Animes e músicas 🤩️</li><br>
-    <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li><br>
-    <li>💻 Estudo no <a href="https://www.senai-ce.org.br/cursos/4788/tecnicos/tecnico-em-desenvolvimento-de-sistemas" target="_blank">SENAI</a>. Atualmente estou aprendendo <b>JavaScript</b> e <b>CSS</b> 💻</li><br>
-    <li>🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End, Web e Mobile🔮</li><br>
+    <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev 🚀</li><br>
+    <li>💻 Estudo no <a href="https://www.senai-ce.org.br/cursos/4788/tecnicos/tecnico-em-desenvolvimento-de-sistemas" target="_blank">SENAI</a>. Atualmente estou aprendendo <b>Java</b> e <b>MySQL</b> 💻</li><br>
+    <li>🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor, Web e Mobile🔮</li><br>
 </ul>
 <br>
 
