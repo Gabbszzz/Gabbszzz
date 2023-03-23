@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br>
       <sub>
         <b>
           <pre>&emsp;Git&emsp;</pre>
@@ -87,18 +87,18 @@
       </sub>
     </td>
     <td align="center">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="65px" alt="AndroidStudio icon"/><br>
+      <sub>
+        <b>
+          <pre>React</pre>
+        </b>
+      </sub>
+    </td>
+   <!-- <td align="center">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="bootstrap icon"/><br>
       <sub>
         <b>
           <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-<!--<td align="center">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="65px" alt="androidstudio icon"/><br>
-      <sub>
-        <b>
-          <pre>React</pre>
         </b>
       </sub>
     </td>
