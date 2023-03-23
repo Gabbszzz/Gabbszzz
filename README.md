@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>
       <sub>
         <b>
           <pre>&emsp;Git&emsp;</pre>
@@ -95,7 +95,7 @@
       </sub>
     </td>
 <!--<td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="65px" alt="androidstudio icon"/><br>
       <sub>
         <b>
           <pre>React</pre>
