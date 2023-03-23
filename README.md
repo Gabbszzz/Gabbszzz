@@ -66,7 +66,7 @@
       <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;Git&emsp;</pre>
+          <pre>&emsp;MySQL&emsp;</pre>
         </b>
       </sub>
     </td>
@@ -90,7 +90,7 @@
       <img src="https://skillicons.dev/icons?i=androidstudio" width="65px" alt="AndroidStudio icon"/><br>
       <sub>
         <b>
-          <pre>React</pre>
+          <pre>AndroidStudio</pre>
         </b>
       </sub>
     </td>
