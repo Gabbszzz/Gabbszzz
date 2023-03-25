@@ -176,9 +176,9 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin">
   </a>
  
-  <a href="https://www.instagram.com/gabbs_zzz/?next=%2F" alt="Instagram" target="_blank">
+ <!--<a href="https://www.instagram.com/gabbs_zzz/?next=%2F" alt="Instagram" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
-  </a>
+  </a>-->
   </p>
  
 <br><br><br>
