@@ -263,7 +263,7 @@
 <details open>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅｓ</i> &ensp;📈</summary>
 <br>
-<img align="center" src="https://github.com/Gabbszzz/Img/blob/main/planet.gif">
+<img align="center" src="https://github.com/Gabbszzz/Img/blob/main/planet.gif" width="65px">
 <br><br>
 <img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbszzz&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
