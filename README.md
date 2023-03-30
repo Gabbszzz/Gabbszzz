@@ -183,6 +183,7 @@
  
 <br><br><br>
 
+.wrapper {
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
 <img align="right" src="https://github.com/Gabbszzz/Img/blob/main/fofinho.gif" height="495px" width="365px" alt="projects image">
 <table height="495px" width="365px">
@@ -258,6 +259,7 @@
   </tr>
   </table>
 <br>
+}
 
 <h2 align="center">
 <details open>
