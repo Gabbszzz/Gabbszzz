@@ -19,8 +19,8 @@
 <ul align="left">
     <li>🤩️ Amante de Tecnologia, Jogos, filmes, Animes e músicas 🤩️</li><br>
     <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev 🚀</li><br>
-    <li>💻 Desenvolvedora Java Júnior apaixonada por programação e resolução de problemas. Recentemente me formei em Técnico em Análise e desenvolvimento de sistemas e estou em busca de uma oportunidade empolgante para iniciar minha carreira no desenvolvimento de software. Tenho experiência em projetos acadêmicos, incluindo o desenvolvimento de um sistema de gerenciamento de tarefas em Java, e estou ansiosa para aplicar meu conhecimento em um ambiente profissional. Aberta a desafios e oportunidades de aprendizado contínuo. 💻 💻</li><br>
-    <li>🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedora Web e Mobile🔮</li><br>
+    <li>💻 Desenvolvedora Java Júnior apaixonada por programação e resolução de problemas. Recentemente me formei em Técnico em Análise e desenvolvimento de sistemas e estou em busca de uma oportunidade empolgante para iniciar minha carreira no desenvolvimento de software. Tenho experiência em projetos acadêmicos, incluindo o desenvolvimento de um sistema de gerenciamento de tarefas em Java, e estou ansiosa para aplicar meu conhecimento em um ambiente profissional. Aberta a desafios e oportunidades de aprendizado contínuo. 💻 </li><br>
+  <!--  <li>🔮 🔮</li><br>-->
 </ul>
 <br>
 
