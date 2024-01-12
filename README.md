@@ -196,8 +196,8 @@
   
    <tr>
     <td>
-    <a href="https://github.com/Gabbszzz/Job-Rotation" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabbszzz&repo=Job-Rotation&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/Gabbszzz/Desenhos" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabbszzz&repo=Desenhos&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
