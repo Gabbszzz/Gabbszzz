@@ -19,13 +19,7 @@
 <ul align="left">
     <li>🤩️ Amante de Tecnologia, Jogos, filmes, Animes e músicas 🤩️</li><br>
     <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev 🚀</li><br>
-    <li>💻 GabriellyAlmeida = {}
-function gabbs:new()
-  self.name = "Gabrielly Almeida"
-  self.age = 28
-  self.mainLanguages = {'HTML5','CSS3','Javascript','jAVA'}
-  return self
-end 💻 </li><br>
+    <li>💻  💻 </li><br>
   <!--  <li>🔮 🔮</li><br>-->
 </ul>
 <br>
