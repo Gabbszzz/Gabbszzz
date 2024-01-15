@@ -23,7 +23,7 @@
   <!--  <li>🔮 🔮</li><br>-->
 </ul>
 <br>
-
+<br></br>
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
 <img align="left" height="295px" width="300px" alt="quote" src="https://github.com/Gabbszzz/Img/blob/main/tec.gif"/>
 <table align="right" height="300px">
