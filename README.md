@@ -53,10 +53,10 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br>
       <sub>
         <b>
-          <pre>JavaScript</pre>
+          <pre>Java</pre>
         </b>
       </sub>
     </td>
